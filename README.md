@@ -1,4 +1,4 @@
-<img alt="Coding" height="350" width="100%" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47q5g9z8a23g7y5s3rym8363ouyv3h9vgeq1wveva4&rid=200.webp&ct=g">
+<img alt="Coding" height="350" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Kartik Mehandiratta 💫</h1>
 <h3 align="center">A passionate competitive coder and app developer from India ❤️</h3>
 <img align="right" alt="Coding" width="290" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
