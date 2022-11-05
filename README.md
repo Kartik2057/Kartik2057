@@ -1,11 +1,9 @@
 <img alt="Coding" height="300" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Kartik Mehandiratta 💫</h1>
 <h3 align="center">A passionate competitive coder and app developer from India ❤️</h3>
-<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik2057&label=Profile%20views&color=0e75b6&style=flat" alt="kartik2057" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik2057" alt="kartik2057" /></a> </p>
 
 - 🌱 I’m currently learning **App Development using Flutter**
 
