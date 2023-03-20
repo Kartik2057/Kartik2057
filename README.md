@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **2021kuec2057@iiitkota.ac.in**
 
-- 📄 Know about my experiences [Kartik Mehandiratta Resume](https://drive.google.com/file/d/1R7Mtf5i_atK7zVuPgV-XFRnjbRPEOTL7/view?usp=share_link)
+- 📄 Know about my experiences [Kartik Mehandiratta Resume](https://1drv.ms/b/s!AhAlsTIudTjmkSmZPwt3dkPdWow8?e=K3BmMS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
