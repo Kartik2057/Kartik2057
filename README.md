@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **App Development using Flutter**
 
-- 💬 Ask me about **Data Structures, Competitive coding, Java**
+- 💬 Ask me about **Data Structures, Competitive coding, Oops, App Development, Java**
 
 - 📫 How to reach me **2021kuec2057@iiitkota.ac.in**
 
-- 📄 Know about my experiences [Kartik Mehandiratta Resume](https://drive.google.com/file/d/10qAeU_IrDyec7YHREgRvzMAA9GKF8Wpe/view?usp=share_link)
+- 📄 Know about my experiences [Kartik Mehandiratta Resume](https://drive.google.com/file/d/1R7Mtf5i_atK7zVuPgV-XFRnjbRPEOTL7/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
