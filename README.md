@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik2057&label=Profile%20views&color=0e75b6&style=flat" alt="kartik2057" /> </p>
 
-- 🌱 I’m currently learning **App Development using Flutter**
+- 🌱 I’m currently learning **Spring security in Spring Boot 3**
 
 - 💬 Ask me about **Data Structures, Competitive coding, Oops, App Development, Java**
 
